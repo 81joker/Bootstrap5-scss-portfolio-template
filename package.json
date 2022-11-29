@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-05",
+  "version": "1.0.0",
+  "description": "Learning Bootstrap V5 withe sass",
+  "main": "index.js",
+  "scripts": {
+     "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/81joker"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass",
+    "test-nehad"
+  ],
+  "author": "Nehad Altimimi",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.12",
+    "bootstrap": "^5.2.2",
+    "postcss": "^8.4.17",
+    "postcss-cli": "^10.0.0"
+  }
+}
